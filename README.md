@@ -1,1 +1,1 @@
-# Vitale-Theme
+# Vitaale Colors
