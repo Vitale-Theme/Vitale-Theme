@@ -22,9 +22,3 @@
 <p align="center">
   This is the asset repository for the Vitaale theme, where you can find all the assets for the theme.
 </p>
-
-&nbsp;
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
-</p>
